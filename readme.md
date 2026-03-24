@@ -5,8 +5,8 @@
 > A Retrieval-Augmented Generation (RAG) system for querying PDF documents — powered by LangChain, ChromaDB, and Google Gemini.
 
 ## UI Preview
-![UI](ui.png)
-![UI](ui2.png)
+![UI](docs/ui.png)
+![UI](docs/ui2.png)
 
 
 
